@@ -1,12 +1,10 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"TP1,TP3";"TestPoint_Pad_1.5x1.5mm";2;"TestPoint";;;
-2;"H2,H1";"MountingHole_2.2mm_M2";2;"MountingHole";;;
-3;"JP1";"PinHeader_1x03_P2.54mm_Horizontal";1;"Jumper_3_Open";;;
-4;"J1";"PinSocket_1x06_P2.54mm_Horizontal";1;"Conn_01x06_Female";;;
-5;"C3,C4";"C_0402_1005Metric";2;"1uF";;;
-6;"U2";"SOT-23-5";1;"AP2112K-3.3";;;
-7;"R1";"R_0402_1005Metric";1;"5.1k";;;
-8;"C1";"C_0402_1005Metric";1;"0.1uF";;;
-9;"C2";"C_0402_1005Metric";1;"10nF";;;
-10;"P1";"USB_C_Plug_Molex_105444";1;"USB_C_Plug_USB2.0";;;
-11;"U1";"SOIC-16_3.9x9.9mm_P1.27mm";1;"CH340C";;;
+Item #,Ref Des,Quantity,Manufacturer,Mfg Part #,Designation,Package,Type,Notes
+1,JP1,1,Molex,90121-0763,Jumper_3_Open,PinHeader_1x03_P2.54mm_Horizontal,THT,
+2,J1,1,Molex,22-28-8063 ,Conn_01x06_Female,PinSocket_1x06_P2.54mm_Horizontal,THT,
+3,"C3,C4",2,Murata Electronics ,GRM155R61E105KA12D ,1uF,C_0402_1005Metric,SMD,
+4,U2,1,Diodes Incorporated,AP2112K-3.3TRG1,AP2112K-3.3,SOT-23-5,SMD,
+5,R1,1,YAGEO,AC0402FR-075K1L ,5.1k,R_0402_1005Metric,SMD,
+6,C1,1,Murata Electronics ,GRM155R71E104KE14D ,0.1uF,C_0402_1005Metric,SMD,
+7,C2,1,Murata Electronics ,GRM155R71H103KA88D ,10nF,C_0402_1005Metric,SMD,
+8,P1,1,Molex,105444-0001,USB_C_Plug_USB2.0,USB_C_Plug_Molex_105444,SMD,Please solder either side.
+9,U1,1,WCH,CH340C,CH340C,SOIC-16_3.9x9.9mm_P1.27mm,SMD,
