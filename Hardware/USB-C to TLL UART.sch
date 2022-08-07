@@ -290,4 +290,15 @@ F 3 "~" H 4400 1900 50  0001 C CNN
 $EndComp
 Text GLabel 4800 1900 1    50   Input ~ 0
 VCC
+$Comp
+L power:Earth #PWR05
+U 1 1 62B11BDF
+P 4800 3100
+F 0 "#PWR05" H 4800 2850 50  0001 C CNN
+F 1 "Earth" H 4800 2950 50  0001 C CNN
+F 2 "" H 4800 3100 50  0001 C CNN
+F 3 "~" H 4800 3100 50  0001 C CNN
+	1    4800 3100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
