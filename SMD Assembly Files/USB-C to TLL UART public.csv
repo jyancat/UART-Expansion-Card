@@ -1,0 +1,8 @@
+Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,*Package/Footprint
+1,"C3,C4",2,Murata Electronics,GRM155R61E105KA12D,1uF,C_0402_1005Metric
+2,U2,1,Diodes Incorporated,AP2112K-3.3TRG1,AP2112K-3.3,SOT-23-5
+3,R1,1,YAGEO,AC0402FR-075K1L,5.1k,R_0402_1005Metric
+4,C1,1,Murata Electronics,GRM155R71E104KE14D,0.1uF,C_0402_1005Metric
+5,C2,1,Murata Electronics,GRM155R71H103KA88D,10nF,C_0402_1005Metric
+6,P1,1,Molex,105444-0001,USB_C_Plug_USB2.0,USB_C_Plug_Molex_105444
+7,U1,1,WCH,CH340C,CH340C,SOIC-16_3.9x9.9mm_P1.27mm
