@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0402_1005Metric,81.43,25.86,180.0,top
+C2,10nF,C_0402_1005Metric,93.7,24.06,0.0,top
+C3,1uF,C_0402_1005Metric,81.43,24.61,180.0,top
+C4,1uF,C_0402_1005Metric,85.06,18.55,0.0,top
+J1,Conn_01x06_Female,PinSocket_1x06_P2.54mm_Horizontal,96.78,7.0,90.0,top
+JP1,Jumper_3_Open,PinHeader_1x03_P2.54mm_Horizontal,83.71,7.08,-90.0,top
+P1,105444-0001,USB_C_Plug_Molex_105444,92.18,33.1125,0.0,top
+R1,5.1k,R_0402_1005Metric,90.18,29.93,0.0,top
+U1,CH340C,SOIC-16_3.9x9.9mm_P1.27mm,92.43,19.86,-90.0,top
+U2,AP2112K-3.3,SOT-23-5,82.69,21.5,-90.0,top
